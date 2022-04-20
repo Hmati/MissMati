@@ -1,9 +1,9 @@
-# Hellen-Mati-
+# Hello :)
 My Personal Repo
 
 My name is Hellen Mati Moses  . I am a  data analyst, and am  passionate about data modelling and Machine Learning  . 
 
-Strong Languages: JavaScript, Python and c++
+#Strong Languages: JavaScript, Python and c++
 
 🔭 Community Manager at DSEAfrica
  
