@@ -23,7 +23,7 @@ time analytics, and creating visualizations to present actionable insights.
 
 You can find me on 
 
-[GitHub](https://github.com/Hmati) 
+[GitHub](README.md) 
 
 [Twitter](https://x.com/MissMati_)
 
