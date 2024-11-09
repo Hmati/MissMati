@@ -1,35 +1,28 @@
-# Hello There  :)
-My name is Hellen Mati . I am a Data Engineer and Data Analytics professional with comprehensive
- experience in designing, developing, and managing cloud-based data
- solutions using Microsoft Azure. Proficient in implementing scalable ETL
- pipelines, optimizing data storage, and utilizing data insights to drive
- business decisions. Adept at managing large datasets, performing real
-time analytics, and creating visualizations to present actionable insights.
- Demonstrated success in improving operational efficiency through data
- engineering solutions. 
 
-#Strong Languages: SQL ,Scala, Python and c++
+# 👋 Hey There !
 
-🔭 I’m also aiding in building communities and making tech education accessible regardless of location and the size of the wallets, these communities includes:
-🔭 I’m also building communities and making tech education accessible regardless of location and the size of the wallets. These communities include: 
+I'm **Hellen Mati** – a **Data Engineer** and **Analytics Aficionado** on a mission to turn raw data into powerful, decision-driving insights. My expertise? Designing **cloud-based data solutions** on **Microsoft Azure** that make data work smarter, not harder!
 
-- [Data Science East Africa](https://x.com/DSEAfrica)
-- [Lux Academy](https://x.com/lux_academy)
+### 🛠 What I Do Best
+- 🔄 Building **scalable ETL pipelines** that seamlessly transform data
+- 📊 Crafting insights from **real-time analytics** and storytelling through **data visualizations**
+- 💡 Using data to drive innovation, boost efficiency, and spark informed business decisions
 
- 
-💬 Ask me about Machine Learning and Data Science.
+### ⚙️ Tech I Live By
+- **Languages:** SQL | Scala | Python | C++
 
-📫 How to reach me : 
+### 🌟 Beyond the Code: Making Tech Education Accessible!
+I believe tech education should be within reach for everyone – wherever they are, whatever their background. I’m committed to building communities that champion this vision:
+- 🌍 [Data Science East Africa](https://x.com/DSEAfrica) – bringing data skills to East Africa
+- ✨ [Lux Academy](https://x.com/lux_academy) – nurturing the next generation of tech talent
 
-You can find me on 
+### 🤔 Got Questions?
+Machine learning, data science, cloud solutions – let’s dive in! I’m all about sharing knowledge and collaborating on meaningful projects.
 
-[GitHub](README.md) 
+### 🌐 Connect With Me!
+Let’s network, share ideas, and create a data-driven future together. Reach out to me on:
+- [GitHub](README.md)  
+- [Twitter](https://x.com/MissMati_)  
+- [LinkedIn](https://www.linkedin.com/in/hellen-mati-7b476613b/)
 
-[Twitter](https://x.com/MissMati_)
-
-[LinkedIn](https://www.linkedin.com/in/hellen-mati-7b476613b/).
-
-
-
-
-
+---
